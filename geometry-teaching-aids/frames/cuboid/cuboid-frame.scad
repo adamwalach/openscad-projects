@@ -82,8 +82,8 @@ module bottomPart(){
 }
 
 module main() {
-  //upperPart();
-  bottomPart();
+  upperPart();
+  //bottomPart();
 }
 
 main();
